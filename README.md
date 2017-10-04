@@ -141,13 +141,14 @@ I first read this when I was eight or nine and my mom was trying to introduce me
 
 > Shirley Jackson's "The Lottery" is a memorable and terrifying masterpiece, fueled by a tension that creeps up on you slowly without any clear indication of why. This is just a townful of people, after all, choosing their numbers for the annual lottery. What's there to be scared of?
 
-#### [The Willows](http://www.gutenberg.org/ebooks/11438) (1907) *by [Algernon Blackwood](https://en.wikipedia.org/wiki/Algernon_Blackwood)*
+#### [The Willows](https://www.goodreads.com/book/show/1335601.The_Willows?ac=1&from_search=true) (1907) *by [Algernon Blackwood](https://en.wikipedia.org/wiki/Algernon_Blackwood)* [4.11]
 
 Categories: `early horror` `horror` `isolation` `supernatural` `weird fiction`
 
 The Willows is a perfect example of my favorite sort of story. It features creeping, unsettling horror that culminates in strange and mostly unexplained events. The imagery from this one has stuck with me since I first read it. - [@margarethogg](https://github.com/margarethogg)
 
-> Two friends are midway through a canoe trip down the Danube River, when flood waters carry them into an uninhabited area. They are forced to stop overnight on one of the many small, sandy islands dotting the river, and on setting up camp are almost immediately confronted by odd sights that serve to set the tone for their stay.
+> Two friends are midway on a canoe trip down the Danube River. Throughout the story Blackwood personifies the surrounding environment—river, sun, wind—and imbues them with a powerful and ultimately threatening character. Most ominous are the masses of dense, desultory, menacing willows, which "moved of their own will as though alive, and they touched, by some incalculable method, my own keen sense of the horrible."
+"The Willows" is one of Algernon Blackwood's best known short stories. American horror author H.P. Lovecraft considered it to be the finest supernatural tale in English literature. "The Willows" is an example of early modern horror and is connected within the literary tradition of weird fiction.
 
 ## Movies
 
